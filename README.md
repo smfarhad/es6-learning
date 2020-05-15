@@ -1,3 +1,4 @@
 ## ES6 Learning 
 ---
-[*] var, let & const
+* [x] Syntax Change addition 
+    * [x] var, let & const
